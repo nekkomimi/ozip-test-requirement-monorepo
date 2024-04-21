@@ -1,0 +1,8 @@
+{
+  "name": "ozip-test-monorepo",
+  "packageManager": "yarn@4.1.1",
+  "workspaces": [
+    "apps/query-browser-frontend",
+    "apps/query-browser-backend"
+  ]
+}
